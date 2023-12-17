@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "dvfdbg",
+      "fats": "3.6",
+      "snf": "9.5",
+      "rate": 27,
+      "location": "pune",
+      "phone": "8669080267",
+      "id": 8
+    },
+    {
+      "name": "Asha",
+      "fats": "3.5",
+      "snf": "8",
+      "rate": 25.75,
+      "location": "pune",
+      "phone": "7972272592",
+      "id": 9
+    },
+    {
+      "name": "asha",
+      "fats": "3.5",
+      "snf": "8.5",
+      "rate": 26,
+      "location": "pune",
+      "phone": "8669080246",
+      "id": 10
+    }
+  ]
+}
